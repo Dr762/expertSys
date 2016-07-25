@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package chuchkhe.expertsysui.domain;
+package org.abondar.university.expertsys.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

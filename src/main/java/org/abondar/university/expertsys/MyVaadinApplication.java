@@ -1,16 +1,14 @@
-package chuchkhe.expertsysui;
+package org.abondar.university.expertsys;
 
-import chuchkhe.expertsysui.domain.AnswerVariant;
-import chuchkhe.expertsysui.domain.Answers;
-import java.util.Set;
+import org.abondar.university.expertsys.domain.AnswerVariant;
+import org.abondar.university.expertsys.domain.Answers;
 
 import javax.persistence.metamodel.EntityType;
 import javax.persistence.metamodel.Metamodel;
 
-import chuchkhe.expertsysui.domain.Question;
-import chuchkhe.expertsysui.domain.QuestionTree;
+import org.abondar.university.expertsys.domain.Question;
+import org.abondar.university.expertsys.domain.QuestionTree;
 
-import chuchkhe.expertsysui.ui.BasicCrudView;
 import com.google.gwt.uibinder.elementparsers.IsEmptyParser;
 
 import com.vaadin.Application;
@@ -45,15 +43,13 @@ import com.vaadin.ui.VerticalLayout;
 
 import com.vaadin.ui.Window;
 import com.vaadin.ui.themes.Reindeer;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.Enumeration;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Map;
-import java.util.TreeSet;
 import java.util.UUID;
 import java.util.logging.Level;
 import java.util.logging.Logger;

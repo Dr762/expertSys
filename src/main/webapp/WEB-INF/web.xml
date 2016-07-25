@@ -12,7 +12,7 @@
         <init-param>
             <description>Vaadin application class to start</description>
             <param-name>application</param-name>
-            <param-value>chuchkhe.expertsysui.MyVaadinApplication</param-value>
+            <param-value>org.abondar.university.expertsys.MyVaadinApplication</param-value>
         </init-param>
 <!-- Uncomment next init-param if widgetset is needed -->
 <!-- 

@@ -2,12 +2,13 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package chuchkhe.expertsysui;
+package org.abondar.university.expertsys;
 
-import chuchkhe.expertsysui.domain.AnswerVariant;
-import chuchkhe.expertsysui.domain.Question;
-import chuchkhe.expertsysui.domain.QuestionTree;
+import org.abondar.university.expertsys.domain.AnswerVariant;
+import org.abondar.university.expertsys.domain.Question;
+import org.abondar.university.expertsys.domain.QuestionTree;
 import com.vaadin.addon.jpacontainer.JPAContainerFactory;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;

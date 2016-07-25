@@ -1,4 +1,4 @@
-package chuchkhe.expertsysui.ui;
+package org.abondar.university.expertsys.ui;
 
 import java.util.Arrays;
 
